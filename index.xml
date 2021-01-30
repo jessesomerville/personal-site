@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog</title>
-    <link>0x96.in/</link>
+    <link>/</link>
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="0x96.in/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jesse Somerville</title>
-      <link>0x96.in/resume/</link>
+      <link>/resume/</link>
       <pubDate>Fri, 29 Jan 2021 21:17:16 -0600</pubDate>
       
-      <guid>0x96.in/resume/</guid>
+      <guid>/resume/</guid>
       <description>Cloud Computing (GCP, AWS) | Kubernetes | IAM | Logging and Monitoring Web App Security | Cloud Security | DevSecOps | Defensive Enablement Python | Golang  Experience  Praetorian Security, Senior Security Engineer
 May 2018 - Present Worked alongside clients to help secure their applications and engineer solutions to complex security related problems. Security domains of focus included cloud architecture, microservice architectures, cloud defensive enablement, and DevSecOps. Lead security assessments that involved manual penetration testing and secure code review for cloud architectures, Kubernetes clusters, web applications, IoT devices, and desktop applications.</description>
     </item>

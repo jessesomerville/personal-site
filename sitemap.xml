@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>0x96.in/resume/</loc>
+    <loc>/resume/</loc>
     <lastmod>2021-01-29T21:17:16-06:00</lastmod>
   </url>
   
   <url>
-    <loc>0x96.in/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>0x96.in/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>0x96.in/series/</loc>
+    <loc>/series/</loc>
   </url>
   
   <url>
-    <loc>0x96.in/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
